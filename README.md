@@ -21,9 +21,9 @@ cd faucetly
 cargo build --release
 ```
 
-or simply install it from here [crates]("https://crates.io/crates/faucetly")
+or simply install it from here [crates](https://crates.io/crates/faucetly)
 
-The compiled binary will be located in the `target/release/` directory. Alternatively, watch for its release on [crates.io](https://crates.io/faucetly) for an easier installation process.
+The compiled binary will be located in the `target/release/` directory. Alternatively, watch for its release on [crates.io](https://crates.io/crates/faucetly) for an easier installation process.
 
 ## Usage
 
