@@ -49,7 +49,7 @@ Faucetly provides clear error messages to assist with troubleshooting issues rel
 
 Your contributions are welcome! If you'd like to improve the Faucetly, please fork the repository and submit a pull request with your changes. For significant modifications, open an issue first to discuss what you'd like to alter.
 
-Explore more projects and contributions on [GitHub](https://github.com/simplysabir) or visit my [Portfolio](https://simplysabir.live/).
+Explore more projects and contributions on [GitHub](https://github.com/simplysabir) or visit my [Portfolio](https://simplysabir.xyz/).
 
 ## License
 
